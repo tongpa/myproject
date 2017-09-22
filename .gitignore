@@ -1,7 +1,7 @@
 *.py[co]
 
 # Default development database
-devdata.db
+#devdata.db
 
 # Default data directory
 data/*
